@@ -1,0 +1,12 @@
+codigo,nombre,presentacion,categoria,precio,stock
+2001,paracetamol,tabletas,analgesico,15.0,30
+2002,ibuprofeno,tabletas,analgesico,15.0,30
+2003,amoxicilina,capsulas,antibiotico,20.0,30
+2004,loratadina,tabletas,antihistaminico,15.0,30
+2005,diclofenaco,tabletas,antiinflamatorio,10.0,30
+2006,salbutamol,inhalador,broncodilatador,25.0,30
+2007,doxiciclina,capsulas,antibiotico,10.0,30
+2008,azitromicina,tabletas,antibiotico,15.0,30
+2009,loperamida,capsulas,antidiarreico,9.0,30
+2010,clotrimazol,crema,antifungico,25.0,30
+2011,cofal,crema,analgesico,10.0,5
