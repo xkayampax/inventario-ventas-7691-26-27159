@@ -3,7 +3,10 @@ from .excepciones import PrecioInvalidoError, StockInsuficienteError
 
 # REQUISITO 3.9: Venta inmutable con @dataclass(frozen=True)
 @dataclass(frozen=True)
-
+class Venta:
+    fecha_hora: str
+    codigo_producto: str
+    cantidad: int
 
 class Producto:
     def __init__(self, codigo, nombre, presentacion, categoria, precio, stock):
