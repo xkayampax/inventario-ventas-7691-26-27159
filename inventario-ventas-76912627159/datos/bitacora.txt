@@ -1,8 +1,0 @@
-Bitácora:
-2026-11-04 14:44:04 - Sistema iniciado y datos cargados.
-2026-11-04 14:44:39 - Sistema iniciado y datos cargados.
-2026-11-04 14:44:48 - Sistema iniciado y datos cargados.
-2026-11-04 14:46:53 - Producto agregado: ambroxol (Código: 2012)
-2026-11-04 14:47:09 - Guardado de cambios y salida del sistema
-2026-11-04 17:48:49 - Sistema iniciado y datos cargados.
-2026-11-04 17:48:52 - Sistema iniciado y datos cargados.
